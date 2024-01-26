@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: stock-service
+  profiles:
+    active: dev
+server:
+  port: 7004

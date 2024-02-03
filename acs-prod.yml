@@ -1,0 +1,6 @@
+acs:
+  msg: Welcome to the ACS Dev application
+  build-version: 1
+  mailDetails:
+    hostName: localhost
+    port: 7001

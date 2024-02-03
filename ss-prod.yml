@@ -1,6 +1,3 @@
-acs:
-  msg: Welcome to the ACS Production application
-  build-version: 1
-  mailDetails:
-    hostName: localhost
-    port: 7002
+ss:
+  message: Welcome to the Scoring Service production application
+  build-version: 0.0.1

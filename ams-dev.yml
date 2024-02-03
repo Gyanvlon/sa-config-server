@@ -1,6 +1,4 @@
-acs:
-  msg: Welcome to the ACS Production application
-  build-version: 1
-  mailDetails:
-    hostName: localhost
-    port: 7002
+ams:
+  message: Welcome to the API Manager Service dev application
+  build-version: 0.0.1
+

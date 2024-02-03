@@ -1,6 +1,3 @@
-acs:
-  msg: Welcome to the ACS Production application
-  build-version: 1
-  mailDetails:
-    hostName: localhost
-    port: 7002
+rtdis:
+  message: Welcome to the Real-time Data Input Service dev application
+  build-version: 0.0.1
